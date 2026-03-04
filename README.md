@@ -65,7 +65,6 @@ The goal of this dashboard is to:
 
 * **Power BI** – Data visualization and dashboard creation
 * **Excel / CSV Dataset** – Data source
-* **DAX** – KPI calculations and measures
 * **Data Cleaning & Transformation** – Power Query
 
 ---
